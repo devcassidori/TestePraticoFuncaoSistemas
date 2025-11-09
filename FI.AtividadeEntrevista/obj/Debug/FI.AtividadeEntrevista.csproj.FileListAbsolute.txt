@@ -1,0 +1,12 @@
+C:\Users\leona\Documents\Leonardo Backup\TestePraticoDesenvolvimento\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\leona\Documents\Leonardo Backup\TestePraticoDesenvolvimento\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\leona\Documents\Leonardo Backup\TestePraticoDesenvolvimento\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Users\leona\Documents\Leonardo Backup\TestePraticoDesenvolvimento\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Leonardo Backup\TestePraticoDesenvolvimento\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\leona\Documents\Leonardo Backup\TestePraticoDesenvolvimento\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\Ste\Downloads\Nova pasta (2)\TestePraticoDesenvolvimento-main\TestePraticoDesenvolvimento-main\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\Ste\Downloads\Nova pasta (2)\TestePraticoDesenvolvimento-main\TestePraticoDesenvolvimento-main\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\Ste\Downloads\Nova pasta (2)\TestePraticoDesenvolvimento-main\TestePraticoDesenvolvimento-main\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Users\Ste\Downloads\Nova pasta (2)\TestePraticoDesenvolvimento-main\TestePraticoDesenvolvimento-main\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\Ste\Downloads\Nova pasta (2)\TestePraticoDesenvolvimento-main\TestePraticoDesenvolvimento-main\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\Ste\Downloads\Nova pasta (2)\TestePraticoDesenvolvimento-main\TestePraticoDesenvolvimento-main\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
